@@ -1,0 +1,9 @@
+Diseases
+ - transmission
+ 
+NLP
+ - disease analysis
+ - coachella -> symptoms at that event
+ - build dataset from tweets
+ - 
+ 

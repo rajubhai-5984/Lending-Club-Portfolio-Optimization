@@ -1,0 +1,3 @@
+#List of requirements for running project
+cPickle
+tqdm
